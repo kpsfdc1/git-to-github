@@ -1,7 +1,7 @@
-class hello
+class hello	#from linux
 {
-	public static void main()	#from wind
+	public static void main()	#from linux
 	{
-		system.out.println("hello from wind");
+		system.out.println("hello from linx");
 	}
 }
