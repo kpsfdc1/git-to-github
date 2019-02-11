@@ -5,4 +5,4 @@ class hello	#from wind-dev
 	{
 		system.out.println("hello from linx");
 	}
-}#from wind-dev
+}#from wind-hello
