@@ -6,3 +6,6 @@ class hello	#from wind-dev
 		system.out.println("hello from linx");
 	}
 }#from wind-hello
+
+
+this modf is from R1..
